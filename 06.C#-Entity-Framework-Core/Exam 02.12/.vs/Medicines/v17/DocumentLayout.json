@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\lubos\\documents\\github\\softuni\\06.c#-entity-framework-core\\exam 02.12\\medicines\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\lubos\\documents\\github\\softuni\\06.c#-entity-framework-core\\exam 02.12\\medicines\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\deserializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\lubos\\documents\\github\\softuni\\06.c#-entity-framework-core\\exam 02.12\\medicines\\dataprocessor\\exportdtos\\exportmedicinesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\exportdtos\\exportmedicinesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\lubos\\documents\\github\\softuni\\06.c#-entity-framework-core\\exam 02.12\\medicines\\data\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\medicine.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\lubos\\documents\\github\\softuni\\06.c#-entity-framework-core\\exam 02.12\\medicines\\data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\patient.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\lubos\\documents\\github\\softuni\\06.c#-entity-framework-core\\exam 02.12\\medicines\\dataprocessor\\exportdtos\\exportpationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\dataprocessor\\exportdtos\\exportpationsdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\ExamPrep3\\Trucks\\DataProcessor\\Serializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\lubos\\documents\\github\\softuni\\06.c#-entity-framework-core\\exam 02.12\\medicines\\exportresults\\expected result - exportmedicinesfromdesiredcategoryinnonstoppharmacies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\exportresults\\expected result - exportmedicinesfromdesiredcategoryinnonstoppharmacies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\lubos\\documents\\github\\softuni\\06.c#-entity-framework-core\\exam 02.12\\medicines\\exportresults\\actual result - exportmedicinesfromdesiredcategoryinnonstoppharmacies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\exportresults\\actual result - exportmedicinesfromdesiredcategoryinnonstoppharmacies.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\lubos\\documents\\github\\softuni\\06.c#-entity-framework-core\\exam 02.12\\medicines\\data\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\pharmacy.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\lubos\\documents\\github\\softuni\\06.c#-entity-framework-core\\exam 02.12\\medicines\\data\\models\\enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\data\\models\\enums\\category.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|c:\\users\\lubos\\documents\\github\\softuni\\06.c#-entity-framework-core\\exam 02.12\\medicines\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4A00ADC-4A61-4984-AC49-DB741C1A4CAE}|Medicines\\Medicines.csproj|solutionrelative:medicines\\startup.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Medicine.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\Data\\Models\\Medicine.cs",
+              "RelativeDocumentMoniker": "Medicines\\Data\\Models\\Medicine.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\Data\\Models\\Medicine.cs",
+              "RelativeToolTip": "Medicines\\Data\\Models\\Medicine.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBgAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:07:11.683Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ExportMedicinesDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\DataProcessor\\ExportDtos\\ExportMedicinesDTO.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\ExportDtos\\ExportMedicinesDTO.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\DataProcessor\\ExportDtos\\ExportMedicinesDTO.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\ExportDtos\\ExportMedicinesDTO.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:07:11.818Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Patient.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\Data\\Models\\Patient.cs",
+              "RelativeDocumentMoniker": "Medicines\\Data\\Models\\Patient.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\Data\\Models\\Patient.cs",
+              "RelativeToolTip": "Medicines\\Data\\Models\\Patient.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAABgAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:07:11.821Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ExportPationsDTO.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\DataProcessor\\ExportDtos\\ExportPationsDTO.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\ExportDtos\\ExportPationsDTO.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\DataProcessor\\ExportDtos\\ExportPationsDTO.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\ExportDtos\\ExportPationsDTO.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAABQAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:07:11.825Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Expected Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\ExportResults\\Expected Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
+              "RelativeDocumentMoniker": "Medicines\\ExportResults\\Expected Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\ExportResults\\Expected Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
+              "RelativeToolTip": "Medicines\\ExportResults\\Expected Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAQwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T19:07:11.828Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Actual Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\ExportResults\\Actual Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
+              "RelativeDocumentMoniker": "Medicines\\ExportResults\\Actual Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\ExportResults\\Actual Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
+              "RelativeToolTip": "Medicines\\ExportResults\\Actual Result - ExportMedicinesFromDesiredCategoryInNonStopPharmacies.json",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAwwCkAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-11T19:07:11.833Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Deserializer.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\DataProcessor\\Deserializer.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\Deserializer.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\DataProcessor\\Deserializer.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\Deserializer.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAgwFUAAABHAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:07:11.837Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Pharmacy.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\Data\\Models\\Pharmacy.cs",
+              "RelativeDocumentMoniker": "Medicines\\Data\\Models\\Pharmacy.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\Data\\Models\\Pharmacy.cs",
+              "RelativeToolTip": "Medicines\\Data\\Models\\Pharmacy.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:07:11.841Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Category.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\Data\\Models\\Enums\\Category.cs",
+              "RelativeDocumentMoniker": "Medicines\\Data\\Models\\Enums\\Category.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\Data\\Models\\Enums\\Category.cs",
+              "RelativeToolTip": "Medicines\\Data\\Models\\Enums\\Category.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:07:11.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\ExamPrep3\\Trucks\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "..\\ExamPrep3\\Trucks\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\ExamPrep3\\Trucks\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "..\\ExamPrep3\\Trucks\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAAB4AAAAAAAAAAAAAACUAAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:07:11.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "StartUp.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\StartUp.cs",
+              "RelativeDocumentMoniker": "Medicines\\StartUp.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\StartUp.cs",
+              "RelativeToolTip": "Medicines\\StartUp.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:07:11.877Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Serializer.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\DataProcessor\\Serializer.cs",
+              "RelativeDocumentMoniker": "Medicines\\DataProcessor\\Serializer.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\DataProcessor\\Serializer.cs",
+              "RelativeToolTip": "Medicines\\DataProcessor\\Serializer.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAxwBoAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-11T19:07:11.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "qJZ+UIJvfheHYzu+z8W1T2rx3RB9RE/V9UUCBRd90xY7DZAJFYC4tJugUHfSGssMHsFs+fWHpTV71MHxMfzn0w==",
+  "dgSpecHash": "9Fv/6nHPP/b6B4+rATqEdn5pgBToOa0Lw5uym4Y2uT545SVhf4LM+Ot/HpSFF8MYhN2+aT+ut0gZYgUKyw+Yww==",
   "success": true,
-  "projectFilePath": "C:\\Users\\lubos\\Desktop\\Exam 02.12\\Medicines\\Medicines.csproj",
+  "projectFilePath": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\Medicines.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\lubos\\.nuget\\packages\\automapper\\12.0.1\\automapper.12.0.1.nupkg.sha512",
     "C:\\Users\\lubos\\.nuget\\packages\\castle.core\\4.4.1\\castle.core.4.4.1.nupkg.sha512",
@@ -130,10 +130,10 @@
     "C:\\Users\\lubos\\.nuget\\packages\\system.xml.readerwriter\\4.3.0\\system.xml.readerwriter.4.3.0.nupkg.sha512",
     "C:\\Users\\lubos\\.nuget\\packages\\system.xml.xdocument\\4.3.0\\system.xml.xdocument.4.3.0.nupkg.sha512",
     "C:\\Users\\lubos\\.nuget\\packages\\system.xml.xmldocument\\4.3.0\\system.xml.xmldocument.4.3.0.nupkg.sha512",
-    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.20\\microsoft.windowsdesktop.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.20\\microsoft.netcore.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.20\\microsoft.aspnetcore.app.ref.6.0.20.nupkg.sha512",
-    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.20\\microsoft.netcore.app.host.win-x64.6.0.20.nupkg.sha512"
+    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\6.0.27\\microsoft.windowsdesktop.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.netcore.app.ref\\6.0.27\\microsoft.netcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\6.0.27\\microsoft.aspnetcore.app.ref.6.0.27.nupkg.sha512",
+    "C:\\Users\\lubos\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\6.0.27\\microsoft.netcore.app.host.win-x64.6.0.27.nupkg.sha512"
   ],
   "logs": []
 }

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\lubos\\Desktop\\Exam 02.12\\Medicines\\Medicines.csproj": {}
+    "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\Medicines.csproj": {}
   },
   "projects": {
-    "C:\\Users\\lubos\\Desktop\\Exam 02.12\\Medicines\\Medicines.csproj": {
+    "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\Medicines.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\lubos\\Desktop\\Exam 02.12\\Medicines\\Medicines.csproj",
+        "projectUniqueName": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\Medicines.csproj",
         "projectName": "Medicines",
-        "projectPath": "C:\\Users\\lubos\\Desktop\\Exam 02.12\\Medicines\\Medicines.csproj",
+        "projectPath": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\Medicines.csproj",
         "packagesPath": "C:\\Users\\lubos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\lubos\\Desktop\\Exam 02.12\\Medicines\\obj\\",
+        "outputPath": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\06.C#-Entity-Framework-Core\\Exam 02.12\\Medicines\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\lubos\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -36,7 +36,9 @@
           ]
         },
         "restoreAuditProperties": {
-          "enableAudit": "default"
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
         }
       },
       "frameworks": {
@@ -94,19 +96,19 @@
           "downloadDependencies": [
             {
               "name": "Microsoft.AspNetCore.App.Ref",
-              "version": "[6.0.20, 6.0.20]"
+              "version": "[6.0.27, 6.0.27]"
             },
             {
               "name": "Microsoft.NETCore.App.Host.win-x64",
-              "version": "[6.0.20, 6.0.20]"
+              "version": "[6.0.27, 6.0.27]"
             },
             {
               "name": "Microsoft.NETCore.App.Ref",
-              "version": "[6.0.20, 6.0.20]"
+              "version": "[6.0.27, 6.0.27]"
             },
             {
               "name": "Microsoft.WindowsDesktop.App.Ref",
-              "version": "[6.0.20, 6.0.20]"
+              "version": "[6.0.27, 6.0.27]"
             }
           ],
           "frameworkReferences": {
@@ -114,7 +116,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.100-preview.7.23376.3\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.200\\RuntimeIdentifierGraph.json"
         }
       }
     }
