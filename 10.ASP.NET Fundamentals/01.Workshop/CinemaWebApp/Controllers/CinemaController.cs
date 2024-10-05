@@ -13,9 +13,9 @@ namespace CinemaWebApp.Controllers
         {
             this.context = context;
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            List<Cinema> cinemas = context.Cinemas.ToList();
+            List<Cinema> cinemas = await context.Cinemas.ToListAsync();
 
             IEnumerable<CinemaIndexViewModel> cinemaIndexViewModels = cinemas.Select(c => new CinemaIndexViewModel
             {
@@ -32,7 +32,7 @@ namespace CinemaWebApp.Controllers
             return View();
         }
         [HttpPost]
-        public IActionResult Create(CinemaIndexViewModel cinemaIndexModel)
+        public async Task<IActionResult> Create(CinemaIndexViewModel cinemaIndexModel)
         {
             if (ModelState.IsValid)
             {
@@ -41,15 +41,15 @@ namespace CinemaWebApp.Controllers
                     Name = cinemaIndexModel.Name,
                     Location = cinemaIndexModel.Location
                 };
-                context.Cinemas.Add(cinema);
-                context.SaveChanges();
+                await context.Cinemas.AddAsync(cinema);
+                await context.SaveChangesAsync();
                 return RedirectToAction("Index");   
             }
             return View(cinemaIndexModel);
         }
-        public IActionResult Details(int id)
+        public async Task<IActionResult> Details(int id)
         {
-            var cinema = context.Cinemas.Include(c => c.CinemaMovies).ThenInclude(cm => cm.Movie).FirstOrDefault(c => c.Id == id);
+            var cinema = await context.Cinemas.Include(c => c.CinemaMovies).ThenInclude(cm => cm.Movie).FirstOrDefaultAsync(c => c.Id == id);
 
             if(cinema is null)
             {

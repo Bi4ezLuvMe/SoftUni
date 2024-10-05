@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{95A4A9ED-8BFF-43A5-8D3D-D4B1A3EC6235}|CinemaWebApp\\CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A4A9ED-8BFF-43A5-8D3D-D4B1A3EC6235}|CinemaWebApp\\CinemaWebApp.csproj|solutionrelative:cinemawebapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{95A4A9ED-8BFF-43A5-8D3D-D4B1A3EC6235}|CinemaWebApp\\CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{95A4A9ED-8BFF-43A5-8D3D-D4B1A3EC6235}|CinemaWebApp\\CinemaWebApp.csproj|solutionrelative:cinemawebapp\\controllers\\cinemacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "CinemaWebApp\\Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "CinemaWebApp\\Controllers\\MovieController.cs",
+              "ViewState": "AQIAAFoAAAAAAAAAAAAuwGkAAABAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T13:02:27.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CinemaController.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Controllers\\CinemaController.cs",
+              "RelativeDocumentMoniker": "CinemaWebApp\\Controllers\\CinemaController.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Controllers\\CinemaController.cs",
+              "RelativeToolTip": "CinemaWebApp\\Controllers\\CinemaController.cs",
+              "ViewState": "AQIAACYAAAAAAAAAAAAIwDAAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T07:41:28.626Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

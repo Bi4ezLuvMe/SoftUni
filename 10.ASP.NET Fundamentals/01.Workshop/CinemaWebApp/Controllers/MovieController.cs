@@ -3,6 +3,7 @@ using CinemaWebApp.Models;
 using CinemaWebApp.Models.Data;
 using Microsoft.EntityFrameworkCore.Metadata.Internal;
 using CinemaWebApp.ViewModels;
+using Microsoft.EntityFrameworkCore;
 
 namespace CinemaWebApp.Controllers
 {
@@ -14,9 +15,9 @@ namespace CinemaWebApp.Controllers
         {
             this.context = context;
         }
-        public IActionResult Index()
+        public async Task<IActionResult> Index()
         {
-            var movies = context.Movies.ToList();
+            var movies = await context.Movies.ToListAsync();
             return View(movies);
         }
         [HttpGet]
@@ -25,10 +26,11 @@ namespace CinemaWebApp.Controllers
             return View(new MovieViewModel());
         }
         [HttpPost]
-        public IActionResult Create(MovieViewModel viewModel)
+        public async Task<IActionResult> Create(MovieViewModel viewModel)
         {
             if (ModelState.IsValid)
             {
+
             Movie movie = new Movie
             {
                 Title = viewModel.Title,
@@ -38,15 +40,17 @@ namespace CinemaWebApp.Controllers
                 Duration = viewModel.Duration,
                 Description = viewModel.Description
             };
-            context.Movies.Add(movie);
-            context.SaveChanges();
+
+            await context.Movies.AddAsync(movie);
+            await context.SaveChangesAsync();
+
             return RedirectToAction("Index");
             }
             return View(viewModel);
         }
-        public IActionResult Details(int id)
+        public async Task<IActionResult> Details(int id)
         {
-            Movie movie = context.Movies.Find(id);
+            Movie? movie = await context.Movies.FindAsync(id);
 
             if(movie is null)
             {
@@ -56,14 +60,17 @@ namespace CinemaWebApp.Controllers
             return View(movie);
         }
         [HttpGet]
-        public IActionResult AddToProgram(int movieId)
+        public async Task<IActionResult> AddToProgram(int movieId)
         {
-            Movie movie = context.Movies.Find(movieId);
+            Movie? movie = await context.Movies.FindAsync(movieId);
+
             if(movie is null)
             {
                 return RedirectToAction("Index");
             }
-            List<Cinema>cinemas = context.Cinemas.ToList();
+
+            List<Cinema>cinemas = await context.Cinemas.ToListAsync();
+
             AddMovieToCinemaProgramViewModel viewModel = new AddMovieToCinemaProgramViewModel
             {
                 MovieId = movie.Id,
@@ -78,13 +85,13 @@ namespace CinemaWebApp.Controllers
             return View(viewModel);
         }
         [HttpPost]
-        public IActionResult AddToProgram(AddMovieToCinemaProgramViewModel model)
+        public async Task<IActionResult> AddToProgram(AddMovieToCinemaProgramViewModel model)
         {
             if (!ModelState.IsValid)
             {
                 return View(model);
             }
-            List<CinemaMovie> existingAssignments = context.CinemaMovies.Where(x => x.MovieId == model.MovieId).ToList();
+            List<CinemaMovie> existingAssignments = await context.CinemaMovies.Where(x => x.MovieId == model.MovieId).ToListAsync();
             context.RemoveRange(existingAssignments);
 
             foreach (var cinema in model.Cinemas) 
@@ -96,10 +103,10 @@ namespace CinemaWebApp.Controllers
                         MovieId = model.MovieId,
                         CinemaId = cinema.Id
                     };
-                    context.CinemaMovies.Add(cinemaMovie);
+                    await context.CinemaMovies.AddAsync(cinemaMovie);
                 }
             }
-            context.SaveChanges();
+            await context.SaveChangesAsync();
             return RedirectToAction("Index");
         }
     }
