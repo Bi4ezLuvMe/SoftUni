@@ -1,0 +1,326 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Migrations\\20241010181213_AddedWatchList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241010181213_AddedWatchList.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\views\\watchlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|solutionrelative:views\\watchlist\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|solutionrelative:views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|solutionrelative:views\\movie\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|solutionrelative:views\\movie\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\viewmodels\\watchlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|solutionrelative:viewmodels\\watchlistviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\viewmodels\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|solutionrelative:viewmodels\\movieviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\models\\usermovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|solutionrelative:models\\usermovie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|solutionrelative:models\\movie.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|solutionrelative:models\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|solutionrelative:controllers\\watchlistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|solutionrelative:controllers\\moviecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|solutionrelative:areas\\identity\\pages\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|solutionrelative:areas\\identity\\pages\\account\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|c:\\users\\lubos\\documents\\github\\softuni\\10.asp.net fundamentals\\01.workshop\\cinemawebapp\\scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}",
+      "RelativeMoniker": "D:0:0:{85436520-49B3-4290-A2DA-29358505C6B4}|CinemaWebApp.csproj|solutionrelative:scaffoldingreadme.txt||{8B382828-6202-11D1-8870-0000F87579D2}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Migrations\\20241010172339_AddIdentityUserToDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20241010172339_AddIdentityUserToDbContext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20241010181213_AddedWatchList.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Migrations\\20241010181213_AddedWatchList.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241010181213_AddedWatchList.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Migrations\\20241010181213_AddedWatchList.cs",
+              "RelativeToolTip": "Migrations\\20241010181213_AddedWatchList.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T18:12:13.597Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Views\\Movie\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Views\\Movie\\Index.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Index.cshtml",
+              "ViewState": "AQIAAA4AAAAAAAAAAAAgwCgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T18:02:01.513Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "WatchListViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\ViewModels\\WatchListViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\WatchListViewModel.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\ViewModels\\WatchListViewModel.cs",
+              "RelativeToolTip": "ViewModels\\WatchListViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAjAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:54:16.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Views\\Watchlist\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Watchlist\\Index.cshtml",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Views\\Watchlist\\Index.cshtml",
+              "RelativeToolTip": "Views\\Watchlist\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:50:48.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "WatchlistController.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Controllers\\WatchlistController.cs",
+              "RelativeDocumentMoniker": "Controllers\\WatchlistController.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Controllers\\WatchlistController.cs",
+              "RelativeToolTip": "Controllers\\WatchlistController.cs",
+              "ViewState": "AQIAADMAAAAAAAAAAAAswEYAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:48:15.375Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Views\\Movie\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Movie\\Create.cshtml",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Views\\Movie\\Create.cshtml",
+              "RelativeToolTip": "Views\\Movie\\Create.cshtml",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACYAAAA9AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:45:30.363Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "MovieController.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Controllers\\MovieController.cs",
+              "RelativeDocumentMoniker": "Controllers\\MovieController.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Controllers\\MovieController.cs",
+              "RelativeToolTip": "Controllers\\MovieController.cs",
+              "ViewState": "AQIAABcAAAAAAAAAAAA9wCkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:44:48.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "MovieViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\ViewModels\\MovieViewModel.cs",
+              "RelativeDocumentMoniker": "ViewModels\\MovieViewModel.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\ViewModels\\MovieViewModel.cs",
+              "RelativeToolTip": "ViewModels\\MovieViewModel.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAUwBoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:44:05.869Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Movie.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Models\\Movie.cs",
+              "RelativeDocumentMoniker": "Models\\Movie.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Models\\Movie.cs",
+              "RelativeToolTip": "Models\\Movie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:41:39.266Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserMovie.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Models\\UserMovie.cs",
+              "RelativeDocumentMoniker": "Models\\UserMovie.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Models\\UserMovie.cs",
+              "RelativeToolTip": "Models\\UserMovie.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:38:04.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Login.cshtml",
+              "ViewState": "AQIAABoAAAAAAAAAAAAAACEAAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:32:39.51Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeDocumentMoniker": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "RelativeToolTip": "Areas\\Identity\\Pages\\Account\\Register.cshtml",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAB8AAAAKAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:31:58.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAgwD4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:28:14.128Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-10-10T17:29:28.094Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ScaffoldingReadMe.txt",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\ScaffoldingReadMe.txt",
+              "RelativeDocumentMoniker": "ScaffoldingReadMe.txt",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\ScaffoldingReadMe.txt",
+              "RelativeToolTip": "ScaffoldingReadMe.txt",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003109|",
+              "WhenOpened": "2024-10-10T17:27:22.068Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20241010172339_AddIdentityUserToDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Migrations\\20241010172339_AddIdentityUserToDbContext.cs",
+              "RelativeDocumentMoniker": "Migrations\\20241010172339_AddIdentityUserToDbContext.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Migrations\\20241010172339_AddIdentityUserToDbContext.cs",
+              "RelativeToolTip": "Migrations\\20241010172339_AddIdentityUserToDbContext.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwBgAAABCAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:23:39.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Models\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Models\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Models\\Data\\AppDbContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABUAAABZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:22:24.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\lubos\\Documents\\GitHub\\SoftUni\\10.ASP.NET Fundamentals\\01.Workshop\\CinemaWebApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAACAAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-10T17:20:18.908Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -38,7 +38,8 @@ namespace CinemaWebApp.Controllers
                 ReleaseDate = viewModel.ReleaseDate,
                 Director = viewModel.Director,
                 Duration = viewModel.Duration,
-                Description = viewModel.Description
+                Description = viewModel.Description,
+                ImageUrl = viewModel.ImageUrl,
             };
 
             await context.Movies.AddAsync(movie);
