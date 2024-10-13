@@ -1,0 +1,58 @@
+﻿@using KickShop.ViewModels
+@model ProductDetailsViewModel // Update with your actual namespace
+
+@{
+    ViewData["Title"] = "Product Details";
+    Layout = "~/Views/Shared/_Layout.cshtml"; // Ensure you have a layout page
+}
+
+<div class="container mt-5">
+    <div class="row">
+        <!-- Product Image -->
+        <div class="col-md-6">
+            <img src="@Model.ImageUrl" alt="@Model.Name" class="img-fluid" style="max-height: 400px; object-fit: cover;" />
+        </div>
+
+        <!-- Product Details -->
+        <div class="col-md-6">
+            <h1>@Model.Name</h1>
+            <p>@Model.Description</p>
+            <h3 class="text-primary">$@Model.Price</h3>
+
+            <!-- Add to Cart Form -->
+            <form method="post" action="/Cart/AddToCart">
+                <input type="hidden" name="productId" value="@Model.ProductId" />
+                <div class="form-group">
+                    <label for="quantity">Quantity</label>
+                    <input type="number" id="quantity" name="quantity" value="1" class="form-control" min="1" />
+                </div>
+                <button type="submit" class="btn btn-success mt-3">
+                    <i class="fas fa-shopping-cart"></i> Add to Cart
+                </button>
+            </form>
+
+            <!-- Back to Products link -->
+            <a href="/Product" class="btn btn-secondary mt-3">Back to Products</a>
+        </div>
+    </div>
+
+    <!-- Optional: Related Products or Reviews Section -->
+    <div class="mt-5">
+        <h3>Related Products</h3>
+        <div class="row">
+            @foreach (var relatedProduct in Model.RelatedProducts)
+            {
+                <div class="col-md-3">
+                    <div class="card">
+                        <img src="@relatedProduct.ImageUrl" class="card-img-top" alt="@relatedProduct.Name" style="height: 150px; object-fit: cover;" />
+                        <div class="card-body text-center">
+                            <h5 class="card-title">@relatedProduct.Name</h5>
+                            <p class="card-text text-primary"><strong>$@relatedProduct.Price</strong></p>
+                            <a href="/Product/Details/@relatedProduct.ProductId" class="btn btn-primary">View Details</a>
+                        </div>
+                    </div>
+                </div>
+            }
+        </div>
+    </div>
+</div>
